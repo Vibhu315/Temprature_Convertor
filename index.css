@@ -26,9 +26,10 @@ label{
     font-family:Verdana, Geneva, Tahoma, sans-serif;   
 }
 button{
+    margin-top:10px;
     border-radius: 10px;
-    background-color:#00abf0;
-    color:#081b29;
+    background-color: #081b29;
+    color:#00abf0;
     font-weight:900;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
