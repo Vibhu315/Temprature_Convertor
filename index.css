@@ -23,6 +23,12 @@ margin-top: 8px;
 label{
     font-size: larger;
     font-weight: 900;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;   
+}
+button{
+    border-radius: 10px;
+    background-color:#00abf0;
+    color:#081b29;
+    font-weight:900;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    
 }
