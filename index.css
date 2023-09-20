@@ -26,6 +26,7 @@ label{
     font-family:Verdana, Geneva, Tahoma, sans-serif;   
 }
 button{
+    cursor: pointer;
     margin-top:10px;
     border-radius: 10px;
     background-color: #081b29;
